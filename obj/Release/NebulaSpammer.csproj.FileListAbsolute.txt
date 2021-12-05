@@ -1,0 +1,56 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\NebulaSpammer.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\NebulaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Guna.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\MetroSuite 2.0.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Siticone.UI.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\NebulaSpammer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\NebulaSpammer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\NebulaSpammer.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\NebulaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\BrotliSharpLib.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Bunifu.Licensing.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\TwoCaptcha.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\websocket-sharp-customheaders.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\NebulaSpammer.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\obj\Release\NebulaSpammer.exe.licenses
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\BrotliSharpLib.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Nebula Industries\Projects\Client\NebulaSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\NebulaSpammer.exe.config
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\NebulaSpammer.exe
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\BrotliSharpLib.dll
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\websocket-sharp-customheaders.dll
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\BrotliSharpLib.xml
+C:\Users\utente\Desktop\NebulaSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\MainForm.resources
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.Properties.Resources.resources
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.exe.licenses
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.csproj.CopyComplete
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\NebulaSpammer.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\NebulaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\BrotliSharpLib.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\websocket-sharp-customheaders.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\BrotliSharpLib.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.exe.licenses
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.exe
+C:\Users\utente\Desktop\NebulaSpammer\obj\Release\NebulaSpammer.csproj.SuggestedBindingRedirects.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NebulaSpammer\obj\Release\NebulaSpammer.csproj.SuggestedBindingRedirects.cache
